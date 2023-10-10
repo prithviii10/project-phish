@@ -1,0 +1,5 @@
+url,URL_length,use_of_special_characters,is_https,domain_age,label
+"http://legit.com",20,0,1,5,0
+"https://phishingsite.com",22,1,1,1,1
+"http://anotherlegit.com",23,0,1,7,0
+"https://phishing.scam",18,1,0,1,1
